@@ -1,6 +1,9 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning C/C++.
+### Hi Everyone 👋
+
+- A Rookie of programming.
+
+### Welcome to [my blog](https://sxhpai.github.io/)
 
 <!--
 **sxhpai/sxhpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
